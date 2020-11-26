@@ -50,17 +50,17 @@ python eval.py --eval_imgs='/PATH/TO/IMAGES/'
 ## Train
 
 ## 使用方法
--[x] 制备数据集
+- [x] 制备数据集
     +  数据集格式
-    ```
-    ├── VOCdevkit
-    │   ├── VOCdevkit_train
-    │       ├── Annotation
-    │       ├── JPEGImages
-    │   ├── VOCdevkit_test
-    │       ├── Annotation
-    |       ├── JPEGImages
-    ```
+      ```
+      ├── VOCdevkit
+      │   ├── VOCdevkit_train
+      │       ├── Annotation
+      │       ├── JPEGImages
+      │   ├── VOCdevkit_test
+      │       ├── Annotation
+      |       ├── JPEGImages
+      ```
   
 - [x] If you want to train your own data, please note:  
 ```     
