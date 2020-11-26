@@ -51,7 +51,7 @@ python eval.py --eval_imgs='/PATH/TO/IMAGES/'
 
 ## 使用方法
 - [x] 制备数据集
-    +  数据集格式
+  +  数据集格式
       ```
       ├── VOCdevkit
       │   ├── VOCdevkit_train
