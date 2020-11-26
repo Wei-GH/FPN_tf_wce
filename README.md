@@ -1,4 +1,4 @@
-# Feature Pyramid Networks for Object Detection on WCE_dataset
+# Feature Pyramid Networks for Object Detection based on WCE_dataset
 ### 基于FPN特征融合与无线胶囊内窥镜的消化道疾病检测
 
 ## Note
